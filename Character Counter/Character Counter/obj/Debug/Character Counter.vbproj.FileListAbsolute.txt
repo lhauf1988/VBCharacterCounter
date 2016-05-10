@@ -1,0 +1,10 @@
+c:\users\lucas\documents\visual studio 2013\Projects\Character Counter\Character Counter\bin\Debug\Character Counter.exe.config
+c:\users\lucas\documents\visual studio 2013\Projects\Character Counter\Character Counter\bin\Debug\Character Counter.exe
+c:\users\lucas\documents\visual studio 2013\Projects\Character Counter\Character Counter\bin\Debug\Character Counter.pdb
+c:\users\lucas\documents\visual studio 2013\Projects\Character Counter\Character Counter\bin\Debug\Character Counter.xml
+c:\users\lucas\documents\visual studio 2013\Projects\Character Counter\Character Counter\obj\Debug\Character_Counter.frmCharacterCounter.resources
+c:\users\lucas\documents\visual studio 2013\Projects\Character Counter\Character Counter\obj\Debug\Character_Counter.Resources.resources
+c:\users\lucas\documents\visual studio 2013\Projects\Character Counter\Character Counter\obj\Debug\Character Counter.vbproj.GenerateResource.Cache
+c:\users\lucas\documents\visual studio 2013\Projects\Character Counter\Character Counter\obj\Debug\Character Counter.exe
+c:\users\lucas\documents\visual studio 2013\Projects\Character Counter\Character Counter\obj\Debug\Character Counter.xml
+c:\users\lucas\documents\visual studio 2013\Projects\Character Counter\Character Counter\obj\Debug\Character Counter.pdb
